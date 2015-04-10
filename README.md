@@ -1,0 +1,2 @@
+# threadtree
+Nodes are goroutines
